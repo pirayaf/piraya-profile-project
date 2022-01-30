@@ -13,7 +13,20 @@ body {
     font-size: 30px;
  } 
   
-  p {
+  h3 {
     font-family: verdana;
-    font-size: 25px;
+    font-size: 15px;
   }
+  h4 {
+    font-family: verdana;
+    font-size: 15px;
+  }
+  h5 {
+    font-family: verdana;
+    font-size: 15px;
+  }
+  h6 {
+    font-family: verdana;
+    font-size: 15px;
+  }
+  
